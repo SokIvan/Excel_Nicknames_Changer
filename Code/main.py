@@ -6,7 +6,7 @@ from Functional import play_music, Parse, Process
 
 if __name__ == '__main__':
 
-
+#Обновил правильно
 
     asyncio.run(create_UI('Intro_1',intro_name = "Welcome to Project",time_ = 1.05*1,fps = 0.02,ammount = 51,folder = '..\Images\Tayouko'))
 
